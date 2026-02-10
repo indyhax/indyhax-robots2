@@ -1,0 +1,3 @@
+﻿User-agent: *
+Disallow: /private/
+Sitemap: https://indyhax.com/indyhax-robots2/sitemap.xml
